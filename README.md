@@ -1,4 +1,4 @@
-# Sales-Analysis-using-Microsoft-PowerBi
+# Superstore-Sales-Analysis-using-Microsoft-PowerBi
 
 ---
 
